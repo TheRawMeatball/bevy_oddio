@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "bevy_oddio",
+    "bevy_oddio_test",
+]
